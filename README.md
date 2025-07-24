@@ -4,15 +4,15 @@
 
 ### Stacks utilizadas:
 
-Java 23 (JDK 23)
-Spring Boot
-H2 Database
-Spring Data JPA
-Lombok
+Java 23 (JDK 23)<br>
+Spring Boot<br>
+H2 Database<br>
+Spring Data JPA<br>
+Lombok<br>
 Maven
 
 ### Pontos de aprendizado.
 
-Como estruturar um projeto com Spring Boot
-O que é um CRUD na prática (Create, Read, Update, Delete)
+Como estruturar um projeto com Spring Boot<br>
+O que é um CRUD na prática (Create, Read, Update, Delete)<br>
 Como configurar banco de dados H2
