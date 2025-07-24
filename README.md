@@ -1,18 +1,23 @@
-## Projeto CRUD - Cadastro Usuario.
+# 📝 CRUD de Cadastro de Usuários com Spring Boot
 
-### É um projeto simples mas que consegue dar um bom norte ou uma ideia de como utilizar o Java com Spring, objetivo de criar um crud completo para cadastro de usuario
+Um projeto simples, mas funcional, para demonstrar a criação de um **CRUD completo** (Create, Read, Update, Delete) usando Java e Spring Boot. Ideal para quem está começando com Spring ou quer ver um exemplo prático de API REST.
 
-### Stacks utilizadas:
+## 🚀 Tecnologias Utilizadas
+- **Java 23** (JDK 23)
+- **Spring Boot** (Web, Data JPA)
+- **Banco de Dados**: H2 (em memória)
+- **Gerenciamento de Dependências**: Maven
+- **Bibliotecas**: Lombok (para reduzir boilerplate)
 
-Java 23 (JDK 23)<br>
-Spring Boot<br>
-H2 Database<br>
-Spring Data JPA<br>
-Lombok<br>
-Maven
 
-### Pontos de aprendizado.
+## 📌 Pontos de Aprendizado
+- Estruturação de um projeto Spring Boot.
+- Configuração do **banco H2** (acessível via console em `/h2-console`).
+- Uso do **Spring Data JPA** para operações de banco de dados.
+- Aplicação das annotations do **Lombok** (`@Data`, `@Builder`, etc.).
+- Boas práticas em APIs REST (tratamento de exceções, DTOs, etc.).
 
-Como estruturar um projeto com Spring Boot<br>
-O que é um CRUD na prática (Create, Read, Update, Delete)<br>
-Como configurar banco de dados H2
+## 🛠️ Como Executar
+1. Clone o repositório:
+   ```bash
+   git clone [URL_DO_REPOSITÓRIO]
